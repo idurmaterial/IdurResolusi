@@ -1,0 +1,3 @@
+Terget yang ingin dicapai
+- Paham dan bisa menggunakan HTML
+- Paham dan bisa menggunakan CSS
