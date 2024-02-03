@@ -1,4 +1,4 @@
 Terget yang ingin dicapai
 - Paham dan bisa menggunakan HTML
 - Paham dan bisa menggunakan CSS
-- Paham dan menguasai Javascrip dasar, lanjutan
+- Menguasai PHP
